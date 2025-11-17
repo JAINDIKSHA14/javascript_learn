@@ -10,7 +10,7 @@ const getFacts=async () => {
 };
 // btn.addEventListener("click",getFacts);
 getFacts();
-
+console.log("diksha jain");
 
 
 
